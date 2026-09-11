@@ -1,0 +1,12 @@
+# Build output
+/bin/
+/coretext
+*.test
+*.out
+.idea/
+
+# Local environment files
+.env
+
+# macOS
+.DS_Store
